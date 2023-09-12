@@ -8,6 +8,7 @@ information about the temperature, wind, humidity and the weather type
 search history on the webpage to display previously searched cities.
 
 Link to deployed site: https://matthuu75.github.io/weather-dashboard/
+
 ```
 
 ## User Story
