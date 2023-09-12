@@ -1,7 +1,11 @@
 # App Information
 
 ```
-This weather app is meant to show the current weather for a given city. Just type in the name of the city and you will be able to retrieve the information about the temperature, wind, humidity and the weather type (condition). When searching a city, the city name is added to the search history on the webpage to display previously searched cities. 
+This weather app is meant to show the current weather for a given city. 
+Just type in the name of the city and you will be able to retrieve the 
+information about the temperature, wind, humidity and the weather type 
+(condition). When searching a city, the city name is added to the 
+search history on the webpage to display previously searched cities. 
 ```
 
 ## User Story
