@@ -1,11 +1,13 @@
 # App Information
 
 ```
-This weather app is meant to show the current weather for a given city. 
-Just type in the name of the city and you will be able to retrieve the 
-information about the temperature, wind, humidity and the weather type 
-(condition). When searching a city, the city name is added to the 
-search history on the webpage to display previously searched cities. 
+This weather app is meant to show the current weather for a given city.
+Just type in the name of the city and you will be able to retrieve the
+information about the temperature, wind, humidity and the weather type
+(condition). When searching a city, the city name is added to the
+search history on the webpage to display previously searched cities.
+
+Link to deployed site: https://matthuu75.github.io/weather-dashboard/
 ```
 
 ## User Story
@@ -28,3 +30,4 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+
